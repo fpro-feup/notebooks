@@ -1,0 +1,9 @@
+title: "FPRO Notebooks"
+logo: images/01/ada-bug.png
+execute:
+  execute_notebooks: "auto"
+repository:
+  url: https://github.com/fpro-feup/notebooks
+html:
+  use_repository_button: true
+exclude_patterns: [venv/*, images/*]
