@@ -1,0 +1,17 @@
+- file: README
+  title: FPRO
+
+- part: 0 - Get Started
+  chapters:
+    - file: 00-contents
+      title: Contents
+    - file: 00-preface
+      title: Preface
+
+- part: 1 - Introduction 
+  chapters: 
+    - file: 01-introduction
+
+- part: 2 - Simple Data
+  chapters:
+    - file: 02-simple-data
