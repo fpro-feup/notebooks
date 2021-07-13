@@ -1,0 +1,134 @@
+{
+ "cells": [
+  {
+   "cell_type": "markdown",
+   "metadata": {
+    "colab_type": "text",
+    "id": "89c5-BpMY8y2"
+   },
+   "source": [
+    "# FPRO: Programming Fundamentals (without ipnb)\n",
+    "\n",
+    "> The Unit aim at giving the student the ability to create algorithms, and to use a programming language to implement, test, and debug algorithms to solve simple problems.\n"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {
+    "colab_type": "text",
+    "id": "hHIBASQewHi2"
+   },
+   "source": [
+    "## Introduction\n",
+    "\n",
+    "Here you find:\n",
+    "- A collection of Jupyter Notebooks that help you learn basic principles of programming and data structures, and ultimately to embrace the **Computational Thinking**\n",
+    "- The contents are based on:\n",
+    "  - the open-source book: http://openbookproject.net/thinkcs/python/english3e/index.html\n",
+    "  - one interactive version of the book: https://runestone.academy/runestone/books/published/thinkcspy/index.html\n",
+    "\n",
+    "For more information, go to FPRO's landing page at: https://fpro.fe.up.pt"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {
+    "colab_type": "text",
+    "id": "0TTqvXJAv67q"
+   },
+   "source": [
+    "## Table of Contents\n",
+    "\n",
+    "- [00: Preface](00-preface.ipynb)\n",
+    "- [01: Introduction](01-introduction.ipynb)\n",
+    "- [02: Variables, expressions and statements](02-simple-data.ipynb)\n",
+    "- [03: Program flow and conditionals](03-flow-conditionals.ipynb)\n",
+    "- [04: Iteration](04-iteration.ipynb)\n",
+    "- [05: Functions](05-functions.ipynb)\n",
+    "- [06: Fruitful functions](06-more-functions.ipynb)\n",
+    "- [07: Strings](07-strings.ipynb)\n",
+    "- [08: Tuples](08-tuples.ipynb)\n",
+    "- [09: Lists](09-lists.ipynb)\n",
+    "- [10: Work with lists](10-more-lists.ipynb)\n",
+    "- [11: Dictionaries](11-dictionaries.ipynb)\n",
+    "- [12: Sets](12-sets.ipynb)\n",
+    "- [13: Recursion](13-recursion.ipynb)\n",
+    "- [14: Recursion vs. Iteration](14-more-recursion.ipynb)\n",
+    "- [15: Functional Programming with collections](15-fp-collections.ipynb)\n",
+    "- [16: Comprehensions](16-comprehensions.ipynb)\n",
+    "- [17: Higher-order functions](17-higher-order.ipynb)\n",
+    "- [18: Effect-free programming style](18-effect-free.ipynb)\n",
+    "- [19: List algorithms](19-list-algorithms.ipnyb)\n",
+    "- [20: Analysis of algorithms](20-analysis-algorithms.ipnyb)\n",
+    "- [21: Modules](21-modules.ipnyb)\n",
+    "- [22: Programs](22-programs.ipnyb)\n",
+    "- [23: Files](23-files.ipnyb)\n",
+    "- [24: Exceptions](24-exceptions.ipnyb)\n",
+    "- [25: Python packages](25-python-packages.ipnyb)\n",
+    "- [26: Debugging and testing](26-debugging-testing.ipynb)"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {
+    "colab_type": "text",
+    "id": "HXEmxEfgv_hY"
+   },
+   "source": [
+    "## Finale\n",
+    "\n",
+    "- Whenever deemed necessary, students are encouraged to go to the \"Clinic\", supervised by student assistants, to get help; see the [Attendance hours](https://web.fe.up.pt/~jlopes/doku.php/teach/fpro/clinic).\n",
+    "- ... and [always look on the bright side of life](https://www.youtube.com/watch?v=-ECUtkv2qV8)"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "metadata": {
+    "colab": {},
+    "colab_type": "code",
+    "id": "fKOcINUN5Ejo"
+   },
+   "outputs": [],
+   "source": [
+    "from IPython.display import YouTubeVideo\n",
+    "YouTubeVideo('-ECUtkv2qV8')"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "\n",
+    "-- JCL,  Tue Sep 16 12:18:45 2020"
+   ]
+  }
+ ],
+ "metadata": {
+  "colab": {
+   "collapsed_sections": [],
+   "name": "00-contents.ipynb",
+   "provenance": [],
+   "toc_visible": true
+  },
+  "kernelspec": {
+   "display_name": "Python 3",
+   "language": "python",
+   "name": "python3"
+  },
+  "language_info": {
+   "codemirror_mode": {
+    "name": "ipython",
+    "version": 3
+   },
+   "file_extension": ".py",
+   "mimetype": "text/x-python",
+   "name": "python",
+   "nbconvert_exporter": "python",
+   "pygments_lexer": "ipython3",
+   "version": "3.8.2"
+  }
+ },
+ "nbformat": 4,
+ "nbformat_minor": 1
+}
